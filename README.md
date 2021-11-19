@@ -5,9 +5,6 @@ The diagram shows flow of how we implement User Registration, User Login and Aut
 
 ![jwt-token-authentication-node-js-example-flow](jwt-token-authentication-node-js-example-flow.png)
 
-For more detail, please visit:
-> [Node.js + MongoDB: User Authentication & Authorization with JWT](https://github.com/JS-IT/node-js-mongodb-auth-jwt/)
-
 You may need to implement Refresh Token:
 
 ![jwt-refresh-token-node-js-example-flow](jwt-refresh-token-node-js-example-flow.png)
